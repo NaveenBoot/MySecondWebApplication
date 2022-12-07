@@ -16,7 +16,7 @@
 	   <a class="navbar-brand m-1" >Naveen</a>
 	     <div class="collapse navbar-collapse">
 		    <ul class="navbar-nav">
-			  <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+			  <li class="nav-item"><a class="nav-link" href="/">HOME</a></li>
 			  <li class="nav-item"><a class="nav-link" href="/todo-list">Todos</a></li>
 		    </ul>
 	    </div>
