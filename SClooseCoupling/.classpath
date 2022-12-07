@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/libs/spring-aop-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-aop-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-aop-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-aspects-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-aspects-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-aspects-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-beans-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-beans-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-beans-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-context-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-context-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-context-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-context-indexer-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-context-indexer-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-context-indexer-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-context-support-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-context-support-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-context-support-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-core-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-core-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-core-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-expression-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-expression-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-expression-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-instrument-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-instrument-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-instrument-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-jcl-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-jcl-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-jcl-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-jdbc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-jdbc-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-jdbc-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-jms-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-jms-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-jms-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-messaging-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-messaging-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-messaging-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-orm-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-orm-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-orm-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-oxm-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-oxm-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-oxm-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-r2dbc-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-r2dbc-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-r2dbc-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-test-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-test-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-test-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-tx-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-tx-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-tx-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-web-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-web-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-web-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-webflux-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-webflux-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-webflux-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-webmvc-5.3.8.jar" sourcepath="C:/Users/Naveen/Downloads/spring-framework-main.zip"/>
+	<classpathentry kind="lib" path="C:/libs/spring-webmvc-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-webmvc-5.3.8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-websocket-5.3.8.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-websocket-5.3.8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/libs/spring-websocket-5.3.8-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
