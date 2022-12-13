@@ -19,7 +19,7 @@ public class TodoService {
 	static {
 		todos.add(new Todo(++todocount, "Naveen", "java", LocalDate.now().plusYears(1), false));
 		todos.add(new Todo(++todocount, "Dhanu", "CyberSecurity", LocalDate.now().plusYears(1), false));
-		todos.add(new Todo(++todocount, "Prasanth", "Police", LocalDate.now().plusYears(1), false));
+		todos.add(new Todo(++todocount, "Prasanth", "SUb Police", LocalDate.now().plusYears(1), false));
 	}
 	
 	public List<Todo> showlist(String username){
