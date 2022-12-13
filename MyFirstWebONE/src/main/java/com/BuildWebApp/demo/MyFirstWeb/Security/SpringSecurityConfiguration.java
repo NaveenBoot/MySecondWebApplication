@@ -103,7 +103,7 @@ public class SpringSecurityConfiguration {
 		
 		UserDetails userDetails1 = createNewUser("Naveen", "Naveen@050");
 		UserDetails userDetails2 = createNewUser("Dhanu", "7901505029@aA");
-		UserDetails userDetails3 = createNewUser("ranga", "Naveen@050");
+		UserDetails userDetails3 = createNewUser("Who", "Naveen@050");
 		
 		return new InMemoryUserDetailsManager(userDetails1,userDetails2,userDetails3);               //InMemoryUserDetailsManager is method in spring security
 	}
